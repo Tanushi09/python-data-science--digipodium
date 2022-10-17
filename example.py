@@ -1,0 +1,6 @@
+a=input("enter A=")
+b=input("enter B=")
+print(type(a),type(b))
+a=int (a)
+b=int (b)
+print(a+b)
